@@ -8,5 +8,5 @@
 using namespace std;
 
 void ProgrammingLanguage::speak() {
-    cout << "I know programming language" << endl;
+    cout << "I can write programs in C++" << endl;
 }
